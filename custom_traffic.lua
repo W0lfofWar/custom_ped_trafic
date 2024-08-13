@@ -1,7 +1,7 @@
 local zones = {
     {
         
-        name = "miltary camp",
+        name = "miltary base",
         coords = vector3(-2050.31, 3079.34, 32.27),
         radius = 500.0,
         pedMultiplier = 1.0,
@@ -10,7 +10,7 @@ local zones = {
         scenarioPedMultiplier = 1.0
     },
     {
-        name = "miltary camp2",
+        name = "miltary base part 2",
         coords = vector3(-2637.86, 3222.11, 32.27),
         radius = 300.0,
         pedMultiplier = 1.0,
